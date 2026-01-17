@@ -103,7 +103,7 @@ taskboard/
 
 ## 👤 Autor
 
-Proiect realizat de [Numele Tău].
+Proiect realizat de Razvan M.
 
 ## 📄 Licență
 
